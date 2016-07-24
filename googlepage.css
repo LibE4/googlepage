@@ -1,0 +1,48 @@
+header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+.left {
+float:left;
+
+}
+
+.right {
+float:right;
+
+}
+
+li {
+
+	display: inline-block;
+	margin-right: 3em;
+	text-decoration-style: none;
+}
+
+
+.wrapper {
+	width: 100%;
+	position: fixed;
+	top: 20%;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+.search-container {
+	width: 30%;
+	margin: 2em auto 0;
+}
+
+input {
+	padding: 0 5em;
+}
